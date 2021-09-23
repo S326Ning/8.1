@@ -1,0 +1,73 @@
+#root {
+    margin: 20px;
+}
+
+.top-navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
+
+#topNav {
+    color: rgb(40, 202, 121) !important;
+}
+
+.me-auto {
+    width: 100%;
+    justify-content: space-between;
+}
+
+.sign-in {
+    width: 100px;
+}
+
+#basic-navbar-nav{
+    margin-left: 50px;
+}
+
+.btn-primary {
+    color: white !important;
+}
+
+.homeImage{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.container:not(:first-child) {
+    margin-top: 30px;
+}
+
+.email-input {
+    width: 40% !important;
+}
+
+.connect-us{
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+}
+
+.connect-icons {
+    width: 90px;
+    justify-content: space-around;
+}
+
+.card-list {
+    margin-top: 30px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.card-list h1{
+    margin-bottom: 30px;
+}
+
+.cards{
+    justify-content: center;
+}
+
+.newsletter {
+    justify-content: space-evenly;
+}
